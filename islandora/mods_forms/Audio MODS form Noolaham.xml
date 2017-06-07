@@ -688,7 +688,7 @@
            <type>select</type>
            <access>TRUE</access>
            <title>Rights Information</title>
-           <default_value>in_copyright_permission_for_use_by_NF</default_value>
+           <default_value>cc_by_sa</default_value>
            <options>
              <public_domain>Public Domain - No Known Copyright </public_domain>
              <cc_by_sa>Creative Commons Attribution-Share Alike 4.0 International</cc_by_sa>
