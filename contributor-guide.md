@@ -39,6 +39,4 @@ In Copyright - Fair Use | காப்புரிமையானது - நி
 
 உங்களின் சொந்த ஆக்கமாக இருந்தால், தயவுசெய்து Creative Commons Attribution-Share Alike 4.0 International என்ற உரிமையோடு அளிக்கவும்.  இந்த உரிமமே, இந்த ஆக்கத்தை விக்கிப்பீடியா உட்பட்ட பல இடங்களில் பயன்படுத்த அனுமதிக்கும்.
 
-![alt text](doc_resources/Choosing%20License.png)
-
-மூல ஆவணம் : https://docs.google.com/document/d/1U8mGbyjnfTwLJSfBq4J_pecx8yHvLJsp-BA2cfmwbdM/edit?ts=58f97d3b
+![choosing a license](doc_resources/Choosing%20License.png)
